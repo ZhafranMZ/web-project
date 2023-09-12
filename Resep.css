@@ -1,0 +1,20 @@
+body {
+    background-color: powderblue;
+}
+
+p {
+    font-family: sans-serif; /* Mengatur font dan fallback font */
+    font-size: 20px; /* Mengatur ukuran teks */
+}
+
+a {
+    font-family: sans-serif; /* Mengatur font dan fallback font */
+    font-size: 18px; /* Mengatur ukuran teks */
+}
+
+li {
+    font-family: sans-serif; /* Mengatur font dan fallback font */
+    font-size: 16px; /* Mengatur ukuran teks */
+}
+
+  
