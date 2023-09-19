@@ -1,20 +1,52 @@
 body {
-    background-color: powderblue;
+    background-color: lightskyblue;
+    font-family: sans-serif;
 }
 
+.center{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    padding: 10px;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.centered{
+    text-align: center;
+}
+
+button{
+    border: none;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+    color: black;
+}
+
+.white{
+    background-color: white;
+}
+
+.kanan{
+    padding: 80px;
+}
+
+
+
 p {
-    font-family: sans-serif; /* Mengatur font dan fallback font */
-    font-size: 20px; /* Mengatur ukuran teks */
+    font-size: 20px;
 }
 
 a {
-    font-family: sans-serif; /* Mengatur font dan fallback font */
-    font-size: 18px; /* Mengatur ukuran teks */
+    font-size: 18px;
 }
 
 li {
-    font-family: sans-serif; /* Mengatur font dan fallback font */
-    font-size: 16px; /* Mengatur ukuran teks */
+    font-size: 20px;
 }
 
   
